@@ -1,0 +1,12 @@
+input, button {
+    /* border-radius: 0px !important; */
+}
+
+form, input[type="text"], input[type="submit"], button {
+    min-width: 100% !important;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+}

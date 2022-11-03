@@ -1,0 +1,24 @@
+{
+    "name": "chat-vue-messeger",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite --host",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "axios": "^1.1.3",
+        "bootstrap": "^5.2.2",
+        "bootstrap-icons": "^1.9.1",
+        "sweetalert2": "^11.6.5",
+        "vue": "^3.2.41",
+        "vue-router": "^4.1.6",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^3.2.0",
+        "vite": "^3.2.0"
+    }
+}
